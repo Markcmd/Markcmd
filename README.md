@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Markcmd
-- 👀 I’m interested in programming... as beginner
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Mark
+- 👀 I’m interested in Machin learning and AI.
+- 🌱 I’m a student in CS major at UCSD.
 - 💞️ I’m looking to collaborate on anywhere about coding
 - 📫 How to reach me lovekinball311@gemail.com
 
